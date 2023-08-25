@@ -37,6 +37,7 @@ In this section, we display a sample of the apps developed by The App Dev Team a
 **[C] Requirement Gathering Services - Display Projects:**
 
 **====================================**
+[Coin Microservice Display Sample - Outsource Project - Code 5374.pdf](https://github.com/Abs-AI-Display-projects/.github/files/12443954/Coin.Microservice.-.Outsource.Project.-.Code.5374.pdf)
 
 
 **[D] Code-base and process Documentation - Display Samples :**
