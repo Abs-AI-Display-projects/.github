@@ -18,19 +18,21 @@ In this project, we display a sample of the apps developed by The App Dev Team a
 
 
 **[A] UI/UX Services - App Design Display Projects:**
+
 **=================================**
 - Mahaltko - محلاتكو UI/UX Design Tool Kit: [Mhalatko-UI-Design-Kit](https://www.behance.net/gallery/178507695/Mhalatko-UI-Design-Kit)
 - Ouma Car Mediator Application UI/UX Design: [Ouma-Car-Mediator-App-UIUX-Design](https://www.behance.net/gallery/178511677/Ouma-Car-Mediator-App-UIUX-Design)
 
-
 **[B] App Development Services - Code-base Display Samples:**
+
 **=======================================**
 - Mali Gali - مالي جالي Authentication Module - Codebase Display Purposes: [authentication_module_display_project](https://github.com/Abs-AI-Display-projects/authentication_module_display_project.git)
 
-
 **[C] Requirement Gathering Services - Display Projects:**
+
 **====================================**
 
 
 **[D] Code-base and process Documentation - Display Samples :**
+
 **=========================================**
