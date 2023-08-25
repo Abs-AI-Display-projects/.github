@@ -20,7 +20,7 @@ In this project, we display a sample of the apps developed by The App Dev Team a
 **[A] UI/UX Services - App Design Display Projects:**
 **=================================**
 - Mahaltko - محلاتكو UI/UX Design Tool Kit: 
-[https://www.behance.net/gallery/178507695/Mhalatko-UI-Design-Kit](url)
+[https://www.behance.net/gallery/178507695/Mhalatko-UI-Design-Kit](Mhalatko-UI-Design-Kit)
 - Ouma Car Mediator Application UI/UX Design: [https://www.behance.net/gallery/178511677/Ouma-Car-Mediator-App-UIUX-Design](url)
 
 
