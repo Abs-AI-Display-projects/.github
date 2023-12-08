@@ -1,4 +1,4 @@
-# Abs.AI App Development Services
+# ABS.AI App Development Services
 
 This section is dedicated for displaying sample projects of our team in app development. Our App Dev team in Abs.AI is experienced in designing and implementing Android, IOS, web, and desktop apps tailored to your requirements and specifications. We use Dart Language and Flutter Frameworks to bring your app to life. When you choose Abs.AI as the development company for your app, you get the following:
 
